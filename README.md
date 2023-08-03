@@ -35,4 +35,4 @@ If not install it
 
 ## Run the program :
 
-    py memory.py
+    py gameoflife.py
